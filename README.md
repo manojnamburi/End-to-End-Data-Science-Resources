@@ -2,13 +2,12 @@
 
 ***CREDITS:All corresponding resources***
 
-***MOTIVATION:Motivation to create this repository  to help upcoming aspirants and help to  others in the data science field*** 
-
 https://www.theinsaneapp.com/2021/03/how-to-build-machine-learning-project.html
 
-***Business understanding*** 
 
-***1.Data collection***
+## Business understanding
+
+## 1.Data collection
 
 Data consists of 3 kinds
 
@@ -28,7 +27,10 @@ variable
     
 cleanlab https://l7.curtisnorthcutt.com/cleanlab-python-package  https://github.com/cgnorthcutt/cleanlab https://github.com/cgnorthcutt/label-errors https://github.com/cgnorthcutt/rankpruning https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise
 
-a.Web scraping  best article to refer-https://towardsdatascience.com/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f
+
+a.Web scraping  
+
+best article to refer-https://towardsdatascience.com/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f
 
 https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-python/?utm_source=linkedin&utm_medium=KJ|link|weekend-blogs|blogs|44087|0.875
 
@@ -54,29 +56,29 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
     5.AUTOSCRAPER - https://github.com/alirezamika/autoscraper
     
-    webbot https://pypi.org/project/webbot/
-    
-    gazpacho https://github.com/maxhumber/gazpacho
+                    webbot https://pypi.org/project/webbot/
+
+                    gazpacho https://github.com/maxhumber/gazpacho
     
     6.Twitter scraping tool (𝚝𝚠𝚒𝚗𝚝 or tweepy)-https://github.com/twintproject/twint
 
-      twitterscraper https://www.youtube.com/watch?v=MpIi4HtCiVk
+              twitterscraper https://www.youtube.com/watch?v=MpIi4HtCiVk
 
-      Scrape Twitter for Tweets https://github.com/taspinar/twitterscraper
-      
-      HAR File Web Scraper https://stevesie.com/har-file-web-scraper https://www.youtube.com/watch?v=LcqVDfueb8g
-    
-      https://analyticsindiamag.com/complete-tutorial-on-twint-twitter-scraping-without-twitters-api/
-      
-      https://developer.twitter.com/en/docs
-      
-      pytrends  https://medium.com/nerd-for-tech/scraping-data-from-online-platforms-to-enhance-time-series-forecasts-6eec3c68636d
-      
-      Scraping Instagram -instaloader  https://thecleverprogrammer.com/2020/07/30/scraping-instagram-with-python/
-      
-      Scrape Wikipedia  wikipedia https://www.thepythoncode.com/article/access-wikipedia-python
-      
-      Web Scraping to Create a CSV File  https://thecleverprogrammer.com/2020/08/08/web-scraping-to-create-csv/
+              Scrape Twitter for Tweets https://github.com/taspinar/twitterscraper
+
+              HAR File Web Scraper https://stevesie.com/har-file-web-scraper https://www.youtube.com/watch?v=LcqVDfueb8g
+
+              https://analyticsindiamag.com/complete-tutorial-on-twint-twitter-scraping-without-twitters-api/
+
+              https://developer.twitter.com/en/docs
+
+              pytrends  https://medium.com/nerd-for-tech/scraping-data-from-online-platforms-to-enhance-time-series-forecasts-6eec3c68636d
+
+              Scraping Instagram -instaloader  https://thecleverprogrammer.com/2020/07/30/scraping-instagram-with-python/
+
+              Scrape Wikipedia  wikipedia https://www.thepythoncode.com/article/access-wikipedia-python
+
+              Web Scraping to Create a CSV File  https://thecleverprogrammer.com/2020/08/08/web-scraping-to-create-csv/
     
     7.urllib
     
@@ -84,39 +86,38 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
     9.Octoparse Easy Web Scraping   https://www.octoparse.com/ 
     
-     ParseHub https://www.parsehub.com/  https://analyticsindiamag.com/parsehub-no-code-gui-based-web-scraping-tool/
-     
-     Diffbot  https://analyticsindiamag.com/diffbot/
-     
-     Trustpilot
-     
-     lxml  https://lxml.de/index.html#introduction
-     
-     ScrapingBee  https://analyticsindiamag.com/scrapingbee-api/
-     
-     Scrape HTML tables https://www.youtube.com/watch?v=6U5xJ3mXRKA&feature=youtu.be  or pd.read_html
-     
-     requests-html https://github.com/kennethreitz/requests-html
-     
-     newspaper https://github.com/codelucas/newspaper  https://www.youtube.com/watch?v=Hfry5XnISyc
-     
-     newspaper3k: https://newspaper.readthedocs.io  # easily extract text from articles
-     
-     newscatcher https://github.com/kotartemiy/newscatcher https://www.youtube.com/watch?v=pHzOuizZq4I
-     
-     patang (extract product details) https://github.com/tejazz/patang
-     
-     lisc https://github.com/lisc-tools/lisc
-     
-     pandas(read_html)
-     
-     wget,curl
+         ParseHub https://www.parsehub.com/  https://analyticsindiamag.com/parsehub-no-code-gui-based-web-scraping-tool/
+
+         Diffbot  https://analyticsindiamag.com/diffbot/
+
+         Trustpilot
+
+         lxml  https://lxml.de/index.html#introduction
+
+         ScrapingBee  https://analyticsindiamag.com/scrapingbee-api/
+
+         Scrape HTML tables https://www.youtube.com/watch?v=6U5xJ3mXRKA&feature=youtu.be  or pd.read_html
+
+         requests-html https://github.com/kennethreitz/requests-html
+
+         newspaper https://github.com/codelucas/newspaper  https://www.youtube.com/watch?v=Hfry5XnISyc
+
+         newspaper3k: https://newspaper.readthedocs.io  # easily extract text from articles
+
+         newscatcher https://github.com/kotartemiy/newscatcher https://www.youtube.com/watch?v=pHzOuizZq4I
+
+         patang (extract product details) https://github.com/tejazz/patang
+
+         lisc https://github.com/lisc-tools/lisc
+
+         pandas(read_html)
+
+         wget,curl
      
      https://www.kdnuggets.com/2021/02/6-web-scraping-tools.html
-      
-     https://analyticsindiamag.com/complete-learning-path-to-web-scraping-with-all-major-tools/ https://towardsdatascience.com/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d
-     
+     https://analyticsindiamag.com/complete-learning-path-to-web-scraping-with-all-major-tools/ https://towardsdatascience.com/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d 
      https://towardsdatascience.com/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html
+     
      
 b.Web Crawling
 
@@ -128,21 +129,21 @@ c.creating own data  (manual collection eg:google docx,servey,etc...) primary da
 
 d.Databases
 
-  Databases are 2 kind sequel  and no sequel database
+      Databases are 2 kind sequel  and no sequel database
 
-  sql,sql lite,mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable,AWS DynamoDB,HBase,oracle db
+      sql,sql lite,mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable,AWS DynamoDB,HBase,oracle db
+
+      sql in  python https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e
   
-  sql in  python https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e
-  
-Cloud AI Data labeling service  https://cloud.google.com/ai-platform/data-labeling/docs?utm_source=youtube&utm_medium=Unpaidsocial&utm_campaign=guo-20200503-Data-Labeling
+    Cloud AI Data labeling service  https://cloud.google.com/ai-platform/data-labeling/docs?utm_source=youtube&utm_medium=Unpaidsocial&utm_campaign=guo-20200503-Data-Labeling
 
 e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/  https://medium.com/swlh/where-to-find-awesome-machine-learning-datasets-6bb909a3f350
 
-10 BEST DATA COLLECTION TOOLS FOR EFFECTIVE RESULTS https://www.analyticsinsight.net/10-best-data-collection-tools-for-effective-results/
+    10 BEST DATA COLLECTION TOOLS FOR EFFECTIVE RESULTS https://www.analyticsinsight.net/10-best-data-collection-tools-for-effective-results/
 
-Machine learning datasets  https://www.datasetlist.com/
+    Machine learning datasets  https://www.datasetlist.com/
 
-World’s Largest Data Platform https://worlddata.ai/  
+    World’s Largest Data Platform https://worlddata.ai/  
 
     https://sebastianraschka.com/blog/2021/ml-dl-datasets.html
 
@@ -528,42 +529,50 @@ World’s Largest Data Platform https://worlddata.ai/
     
     69.https://www.dataquest.io/blog/free-datasets-for-projects/
     
-***2.Feature engineering***
+    
+    
+## 2.Feature engineering
 
    https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
 
-   Feature-engine https://trainindata.medium.com/feature-engine-a-new-open-source-python-package-for-feature-engineering-29a0ab88ea7c  https://feature-engine.readthedocs.io/en/latest/
+   Feature-engineering
+   https://trainindata.medium.com/feature-engine-a-new-open-source-python-package-for-feature-engineering-29a0ab88ea7c  https://feature-engine.readthedocs.io/en/latest/
    
-   Categorical Encoding https://github.com/scikit-learn-contrib/category_encoders
+   Categorical Encoding
+   https://github.com/scikit-learn-contrib/category_encoders
 
-   Streamlining Feature Engineering Pipelines with Feature-engine https://towardsdatascience.com/streamlining-feature-engineering-pipelines-with-feature-engine-e781d551f470 https://feature-engine.readthedocs.io/en/latest/#
+   Streamlining Feature Engineering Pipelines with Feature-engine
+   https://towardsdatascience.com/streamlining-feature-engineering-pipelines-with-feature-engine-e781d551f470 https://feature-engine.readthedocs.io/en/latest/#
 
-   Validate your Data (Schema) https://towardsdatascience.com/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a
+   Validate your Data (Schema)
+   https://towardsdatascience.com/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a
 
-   Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
-   
+   Data cleaning-Pyjanitor-
+   https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
    https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
    
-   Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib  https://github.com/akanz1/klib https://towardsdatascience.com/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80
+   Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib
+   https://github.com/akanz1/klib https://towardsdatascience.com/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80
    
-   Easy to use Python library of customized functions for cleaning and analyzing data  https://github.com/akanz1/klib
+   Easy to use Python library of customized functions for cleaning and analyzing data
+   https://github.com/akanz1/klib
    
-   Amazon’s New Visual Data Cleaning Tool Can Speed Up Your AI Projects https://medium.com/dataseries/how-amazons-new-visual-data-tool-can-speed-up-your-ai-projects-68e3289382c
+   Amazon’s New Visual Data Cleaning Tool Can Speed Up Your AI Projects
+   https://medium.com/dataseries/how-amazons-new-visual-data-tool-can-speed-up-your-ai-projects-68e3289382c
    
-   Featuretools https://www.featuretools.com/ https://towardsdatascience.com/why-automated-feature-engineering-will-change-the-way-you-do-machine-learning-5c15bf188b96
-   
+   Featuretools
+   https://www.featuretools.com/ https://towardsdatascience.com/why-automated-feature-engineering-will-change-the-way-you-do-machine-learning-5c15bf188b96
    https://github.com/alteryx/featuretools  https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/
      
    Remove duplicate data in dataset
 
-   a.Handle missing value
+   **a.Handle missing values**
    
-     Types of missing value  https://datamuni.com/@atsunorifujita/missing-value-imputation-using-datawig
+     Types of missing value
+     https://datamuni.com/@atsunorifujita/missing-value-imputation-using-datawig
      
      i.missing completely at random(no correlation b/w missing and observed data) we can delete no disturbance of data distribution
-     
      ii.missing at random (randomness in missing data, missing value have correlation by data) we can't delete because disturbance of data distribution
-     
      iii.missing not at random  (there is reason for missing value and directly related to value)
    
      1.if missing data too small then delete it a.row deletion b.column deletion c.pairwise deletion
@@ -594,27 +603,33 @@ World’s Largest Data Platform https://worlddata.ai/
      
      14.MICE Imputation
      
-     Extrapolation and Interpolation
+         Extrapolation and Interpolation
+
+         Imputation using K-NN
+
+         Imputation Using Deep Learning (Datawig)
      
-     Imputation using K-NN
-     
-     Imputation Using Deep Learning (Datawig)
-     
-     15.autoimpute-https://github.com/kearnz/autoimpute
-     
+     15.autoimpute-
+     https://github.com/kearnz/autoimpute
      https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
-     
      https://stefvanbuuren.name/fimd/want-the-hardcopy.html  https://www.datasciencecentral.com/profiles/blogs/how-to-treat-missing-values-in-your-data-1
      
-   b.Handle imbalance
+   **b.Handle imbalance**
    
-     1.Under Sampling - mostly not prefer because lost of data
+     1.Under Sampling - mostly not prefer because loss of data
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC    https://towardsdatascience.com/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5
-
-     LoRAS: A Better Oversampling Algorithm https://analyticsindiamag.com/hands-on-guide-to-loras-a-better-oversampling-algorithm/  https://github.com/narek-davtyan/LoRAS   
-     
-     https://towardsdatascience.com/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  
+        SMOTETomek(new points create by nearest point so take long time),
+        BorderLine Smote,
+        KMeans Smote,
+        SVM Smote,
+        SMOTNC,
+        ADASYN,
+        Smote-NC    
+            https://towardsdatascience.com/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5
+        LoRAS: A Better Oversampling Algorithm 
+            https://analyticsindiamag.com/hands-on-guide-to-loras-a-better-oversampling-algorithm/  https://github.com/narek-davtyan/LoRAS   
+            https://towardsdatascience.com/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f
      
      3.class_weight give more importance(weight) to that small class
      
@@ -622,94 +637,65 @@ World’s Largest Data Platform https://worlddata.ai/
      
      5.Weighted Neural Network
      
-     6.MESA https://analyticsindiamag.com/guide-to-mesa-boost-ensemble-imbalanced-learning-with-meta-sampler/
-       
-     https://machinelearningmastery.com/framework-for-imbalanced-classification-projects/  https://www.kdnuggets.com/2020/01/5-most-useful-techniques-handle-imbalanced-datasets.html
+     6.MESA 
+        https://analyticsindiamag.com/guide-to-mesa-boost-ensemble-imbalanced-learning-with-meta-sampler/
+        https://machinelearningmastery.com/framework-for-imbalanced-classification-projects/  https://www.kdnuggets.com/2020/01/5-most-useful-techniques-handle-imbalanced-datasets.html
   
-   c.Remove noise data
+   **c.Remove noise data**
    
-   d.Format data
+   **d.Format data**
    
-   e.Handle categorical data   Ordinal,Nominal,cyclic,binary categorical variables  
+   **e.Handle categorical data**   (Ordinal, Nominal, cyclic, binary categorical variables)
    
-     1.One Hot Encoding
+         1.One Hot Encoding
+         2.Count Or Frequency Encoding
+         3.Target Guided Ordinal Encoding
+         4.Mean Encoding
+         5.Probability Ratio Encoding
+         6.label encoding  or .cat.codes
+         7.probability ratio encoding
+         8.woe (Weight_of_evidence)
+         9.one hot encoding with multi category (keep most frequently repeated only)
+         10.feature hashing 
+         11.sparse csr matrix
+         12.entity embeddings
+         13.binary encoding
+         14.Rare label encoding
+         15.Leave-one-out(Loo) encoding
      
-     2.Count Or Frequency Encoding
+         https://towardsdatascience.com/beyond-one-hot-17-ways-of-transforming-categorical-features-into-numeric-features-57f54f199ea4
+         https://towardsdatascience.com/how-to-encode-categorical-data-d44dde313131
      
-     3.Target Guided Ordinal Encoding
-     
-     4.Mean Encoding
-     
-     5.Probability Ratio Encoding
-     
-     6.label encoding  or .cat.codes
-     
-     7.probability ratio encoding
-     
-     8.woe(Weight_of_evidence)
-     
-     9.one hot encoding with multi category (keep most frequently repeated only)
-     
-     10.feature hashing 
-     
-     11.sparse csr matrix
-     
-     12.entity embeddings
-     
-     13.binary encoding
-     
-     14.Rare label encoding
-     
-     15.Leave-one-out(Loo) encoding
-     
-     https://towardsdatascience.com/beyond-one-hot-17-ways-of-transforming-categorical-features-into-numeric-features-57f54f199ea4
-     
-     https://towardsdatascience.com/how-to-encode-categorical-data-d44dde313131
-     
-   f.Scaling of data
+   **f.Scaling of data**
    
        1.Normalisation  
-   
-       2.Standardization
-     
-       3.Robust Scaler not influenced by outliers because using of median,IQR
-       
-       4. Min Max Scaling
-       
-       5.Mean normalization
-       
+       2.Standardization     
+       3.Robust Scaler not influenced by outliers because using of median,IQR      
+       4.Min Max Scaling      
+       5.Mean normalization      
        6.maximum absolute scaling
        
        https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/?utm_source=linkedin&utm_medium=KJ|link|high-performance-blog|blogs|44204|0.375
       
-   Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
-performance if not distributed then use below methods to bring it guassian distribution
+        Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve performance if not distributed then use below methods to bring it guassian distribution
 
-normal test for check normal distribution 
-
-anderson teset  use for check any  distribution 
+        normal test to check normal distribution 
+        anderson test used to check any distribution 
      
-           a.Guassian Transformation
-        
-           b.Logarithmic Transformation
-        
-           c.Reciprocal Trnasformation
-        
-           d.Square Root Transformation
-        
-           e.Exponential Transdormation
-        
-           f.BoxCOx Transformation
-        
-           g.log(1+x) Transformation
-           
+           a.Guassian Transformation        
+           b.Logarithmic Transformation        
+           c.Reciprocal Trnasformation        
+           d.Square Root Transformation        
+           e.Exponential Transdormation        
+           f.BoxCOx Transformation        
+           g.log(1+x) Transformation           
            h.johnson
         
-   g.Remove low variance feature by using VarianceThreshold
+   **g.Remove low variance feature by using VarianceThreshold**
    
-   h.Same variable(only 1 variable) in feature then remove feature
+   **h.Same variable (only 1 variable) in feature then remove feature**
    
-   i.Outilers   removing outilers depond on problem we are solving
+   **i.Outliers -  removing outilers depends on problem we are solving**
    
       2 type of outilers available: Global outiler, Local outiler
     
@@ -725,57 +711,62 @@ anderson teset  use for check any  distribution
       
       if outiler present then use robust scaling
       
-      alibi-detect https://github.com/SeldonIO/alibi-detect#adversarial-detection   https://docs.seldon.io/projects/alibi-detect/en/latest/
-      
-      https://medium.com/towards-artificial-intelligence/outlier-detection-and-treatment-a-beginners-guide-c44af0699754
-      
+      alibi-detect 
+      https://github.com/SeldonIO/alibi-detect#adversarial-detection   https://docs.seldon.io/projects/alibi-detect/en/latest/    
+      https://medium.com/towards-artificial-intelligence/outlier-detection-and-treatment-a-beginners-guide-c44af0699754      
       https://towardsdatascience.com/two-outlier-detection-techniques-you-should-know-in-2021-1454bef89331
       
-   j.Anomaly
+   **j.Anomaly**
    
      clustering techniques to find it
+     Isolation Forest(for Big Data),dbscan     
+     Anomaly detection using PyOD  
+        https://pyod.readthedocs.io/en/latest/   
+        https://www.youtube.com/watch?v=QPjG_313GOw  
+        https://github.com/yzhao062/pyod
+        https://github.com/zhuyiche/awesome-anomaly-detection
+        https://medium.com/@ODSC/data-sciences-role-in-anomaly-detection-bd976f93d7e3
      
-     Isolation Forest(for Big Data),dbscan
+   **k.Sampling techniques**
      
-     Anomaly detection using PyOD  https://pyod.readthedocs.io/en/latest/   https://www.youtube.com/watch?v=QPjG_313GOw  https://github.com/yzhao062/pyod
-     
-     https://github.com/zhuyiche/awesome-anomaly-detection
-     
-     https://medium.com/@ODSC/data-sciences-role-in-anomaly-detection-bd976f93d7e3
-     
-   k.Sampling techniques
-     
-     a.biased sampling
-     
-     b.unbiased sampling
+         a.biased sampling
+         b.unbiased sampling
 
-***3.Exploratory Data Analysis(eda)***
+
+## 3.Exploratory Data Analysis (EDA)
   
-    Explore the dataset by using  python or microsoft excel or tableau or powerbi, etc...
     
-    Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,etc...)
+    Data visualization - Packages
+        Matplotlib,
+        Seaborn,
+        Plotly,
+        pyqtgraph,
+        Bokeh,
+        Pygal,
+        Dash,
+        Pydot,
+        Geoplotlib,
+        ggplot,
+        visualizer,
+        ltair,
+        folium,
+        geoplot etc
     
     Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,Word Clouds,HoloViz
     
-    Python Tool For Visualizing and Plotting 2D/3D Scientific Data https://analyticsindiamag.com/guide-to-mayavi-a-python-tool-for-visualizing-and-plotting-2d-3d-scientific-data/
+    Python Tool For Visualizing and Plotting 2D/3D Scientific Data 
+        https://analyticsindiamag.com/guide-to-mayavi-a-python-tool-for-visualizing-and-plotting-2d-3d-scientific-data/
     
-    7 Techniques to Visualize Geospatial Data https://www.kdnuggets.com/2017/10/7-techniques-visualize-geospatial-data.html
-    
-    https://www.analyticsvidhya.com/blog/2021/03/when-to-use-what-plot-a-beginners-guide-to-select-plots-for-visualization/
-    
-    https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b
-    
-    https://datavizproject.com/   https://datavizcatalogue.com/ 
-    
-    https://attachments.convertkitcdnm.com/232198/ee18f415-1406-4e5c-94f1-49a2c6e3ec4e/Statistics-The-Big-Picture-Poster.pdf
-    
-    https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b
-    
-    HiPlot (high dimensional data)-https://github.com/facebookresearch/hiplot https://levelup.gitconnected.com/learn-hiplot-in-6-mins-facebooks-python-library-for-machine-learning-visualizations-330129d558ac
-    
-    https://towardsdatascience.com/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658
-    
-    https://www.kaggle.com/abhishekvaid19968/data-visualization-using-matplotlib-seaborn-plotly
+    7 Techniques to Visualize Geospatial Data 
+        https://www.kdnuggets.com/2017/10/7-techniques-visualize-geospatial-data.html    
+        https://www.analyticsvidhya.com/blog/2021/03/when-to-use-what-plot-a-beginners-guide-to-select-plots-for-visualization/    
+        https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b    
+        https://datavizproject.com/   https://datavizcatalogue.com/     
+        https://attachments.convertkitcdnm.com/232198/ee18f415-1406-4e5c-94f1-49a2c6e3ec4e/Statistics-The-Big-Picture-Poster.pdf    
+        https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b    
+        HiPlot (high dimensional data)- https://github.com/facebookresearch/hiplot https://levelup.gitconnected.com/learn-hiplot-in-6-mins-facebooks-python-library-for-machine-learning-visualizations-330129d558ac
+        https://towardsdatascience.com/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658   
+        https://www.kaggle.com/abhishekvaid19968/data-visualization-using-matplotlib-seaborn-plotly
     
     𝗞𝗲𝗿𝗮𝘀 𝗠𝗼𝗱𝗲𝗹 𝘃𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿(ann-visualizer)- 𝗽𝗶𝗽𝟯 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗴𝗿𝗮𝗽𝗵𝘃𝗶𝘇
   
@@ -789,316 +780,320 @@ anderson teset  use for check any  distribution
   
     Types of Statistics  
     
-    1.Descriptive
-    
-    2.Inferential
+        1.Descriptive
+        2.Inferential
     
     Types of data
     
-    1) Categorical (nomial,ordinal)
-     
-    2) Numerical   (discerte,continous)
+        1) Categorical (nomial,ordinal)
+        2) Numerical   (discerte,continous)
     
     random variable(discerte random variable ,continous random variable)
     
     Central Limit Theorem,Bayes Theorem,Confidence Interval,Hypothesis Testing,z test, t test,f test,Confidence Interval,1 tail test, 2 tail test,chisquare test,anova test,A/B testing
+    
+    
   
-***4.Feature selection***  https://github.com/solegalli/feature-selection-for-machine-learning
+## 4.Feature selection  
+    
+    https://github.com/solegalli/feature-selection-for-machine-learning
 
     1.Filter methods (correleation,chisquare  test,Ttest,anova test,mutal information,hypothesis test,information gain etc...)
-
     2.Wrapper methods (recursive feature eliminiation,boruta,forward selection,backwaed elimination,stepwise selection etc...)
-
     3.Embedded method (lasso,ridge regression,elasticnet,tree based etc...)
     
-    DropConstantFeatures  DropDuplicateFeatures    DropCorrelatedFeatures  
+        Drop Constant Features  
+        Drop Duplicate Features    
+        Drop Correlated Features  
   
     4.Feature Importance
   
        a.ExtraTreesClassifier,ExtraTreesregressor
-    
-       b.SelectKBest
-    
+       b.SelectKBest 
        c.Logistic Regression
-    
-       d.Random_forest_importance
-       
-       e.decision tree
-       
-       f.Linear Regression
-       
+       d.Random_forest_importance    
+       e.decision tree       
+       f.Linear Regression       
        g.xgboost
   
     5.curse of dimensionality (as dimension increases performance decreases)
-  
     6.highly correleated features then can take any 1 feature (multicollinearity)
-  
     7.dimension reduction
-  
-    8.lasso regression to penalise unimportant features
-    
-    9.VarianceThreshold 
-    
-    10.model based selection
-    
-    11.Mutual Information Feature Selection
-    
-    12.remove features with very low variance (quasi constant feature dropping)
-    
-    13.Univariate  feature selection
-    
-    14.importance of feature (random forest importance)
-    
-    15.feature importance with decision trees
-    
-    16.PyImpetus
-    
-    17.drop constant features (variance=0)
-    
-    18.variance inflation factor(vif)
-    
-    19.Recursive Feature Elimination     RecursiveFeatureAddition
-    
+    8.lasso regression to penalise unimportant features    
+    9.VarianceThreshold     
+    10.model based selection    
+    11.Mutual Information Feature Selection   
+    12.remove features with very low variance (quasi constant feature dropping)    
+    13.Univariate  feature selectio    
+    14.importance of feature (random forest importance)   
+    15.feature importance with decision trees    
+    16.PyImpetus    
+    17.drop constant features (variance=0)    
+    18.variance inflation factor(vif)    
+    19.Recursive Feature Elimination     RecursiveFeatureAddition    
     20.exchaustive feature selection
-    
-    21.Statistical Methods , Hypothesis Testing ,Recursive Feature Elimination
-    
-    22.Boruta https://github.com/scikit-learn-contrib/boruta_py https://analyticsindiamag.com/hands-on-guide-to-automated-feature-selection-using-boruta/
-    
+    21.Statistical Methods , Hypothesis Testing ,Recursive Feature Elimination   
+    22.Boruta 
+         https://github.com/scikit-learn-contrib/boruta_py https://analyticsindiamag.com/hands-on-guide-to-automated-feature-selection-using-boruta/    
     23.Sequence Feature Selection
+        PyImpetus https://github.com/atif-hassan/PyImpetus  
+        https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/    
 
-    PyImpetus https://github.com/atif-hassan/PyImpetus
+        Automate your Feature Selection Workflow in one line of Python code 
+        https://github.com/AutoViML/featurewiz  
+        https://towardsdatascience.com/automate-your-feature-selection-workflow-in-one-line-of-python-code-3d4f23b7e2c4    
+        https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/ https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/    
+        https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/  
+        https://towardsdatascience.com/5-feature-selection-method-from-scikit-learn-you-should-know-ed4d116e4172    
+        Feature Engineering Tools https://neptune.ai/blog/feature-engineering-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-feature-engineering-tools    
+        https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd    
+        Featuretools: https://github.com/alteryx/featuretools  https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/
+        AutoFeat: https://github.com/cod3licious/autofeat
+        TSFresh: https://github.com/blue-yonder/tsfresh
+        FeatureSelector: https://github.com/WillKoehrsen/feature-selector
     
-    https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/
-
-    Automate your Feature Selection Workflow in one line of Python code https://github.com/AutoViML/featurewiz  https://towardsdatascience.com/automate-your-feature-selection-workflow-in-one-line-of-python-code-3d4f23b7e2c4
-    
-    https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/ https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/
-    
-    https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/
-    
-    https://towardsdatascience.com/5-feature-selection-method-from-scikit-learn-you-should-know-ed4d116e4172
-    
-    Feature Engineering Tools https://neptune.ai/blog/feature-engineering-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-feature-engineering-tools
-    
-    https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
-    
-    Featuretools: https://github.com/alteryx/featuretools  https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/
-    AutoFeat: https://github.com/cod3licious/autofeat
-    TSFresh: https://github.com/blue-yonder/tsfresh
-    FeatureSelector: https://github.com/WillKoehrsen/feature-selector
-    
-***5.Data splitting***
+## 5.Data splitting
 
      Splitting ratio of data deponds on size of dataset available
 
      Training data,Validation data,Testing data
 
-***6.Model selection***
+## 6.Model selection 
 
   Machine learning
   
-  Machine Learning Playground  https://ml-playground.com/
+  Machine Learning Playground  
+    https://ml-playground.com/
   
-  Neural Network  https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.46672&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false 
+  Neural Network  
+    https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.46672&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false 
    
-   A.Supervised learning (have label data)
+   **A.Supervised learning (have label data)**
    
      1.Regression (output feature in continous data form)
      
-       linear regression,polynomial regression,Robust Regression,support vector regression,Decision Tree Regression,Random Forest Regression,
-       
-       least square method,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,
-       
-       elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines 
-       
-       Locally Weighted Linear Regression https://towardsdatascience.com/locally-weighted-linear-regression-in-python-3d324108efbf
-       
-       TuringBot https://www.youtube.com/watch?v=LyKzKvjyIPo
+           linear regression
+           polynomial regression
+           Robust Regression
+           support vector regression
+           Decision Tree Regression
+           Random Forest Regression       
+           least square method,
+           Random Forest Regression
+           xgboost
+           ridge(L2 Regularization)
+           lasso(L1 Regularization (more sparse))
+           catboost
+           gradientboosting
+           adaboost
+           elsatic net
+           light gbm
+           ordinary least squares
+           cart
+           Stepwise Regression
+           Multivariate Adaptive Regression Splines   
+           Locally Weighted Linear Regression 
+                https://towardsdatascience.com/locally-weighted-linear-regression-in-python-3d324108efbf       
+           TuringBot
+                https://www.youtube.com/watch?v=LyKzKvjyIPo
 
-     2.Classification (output feature in categorical data form)
+    2.Classification (output feature in categorical data form)
      
-        Binary,Multi-class,Multi-labe
+        Binary
+        Multi-class
+        Multi-label
      
-        Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,
+            Logistic Regression
+            K-Nearest Neighbors
+            Support Vector Machine
+            Kernel SVM
+            Naive Bayes
+            Decision Tree Classification        
+            Random Forest Classification,
+            xgboost
+            adaboost
+            Gradient Boost
+            catboost
+            gaussian NB
+            LGBMClassifier
+            LinearDiscriminantAnalysis 
+            Extreme Gradient Boosting Machine
+            passive aggressive classifier algorithm
+            cart,c4.5,c5.0
         
-        Random Forest Classification,xgboost,adaboost,Gradient Boost,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, passive aggressive classifier algorithm,cart,c4.5,c5.0
+            https://mlwhiz.com/blog/2019/11/12/dtsplits/?utm_campaign=the-simple-math-behind-3-decision-tree-splitting-criterions&utm_medium=social_link&utm_source=missinglettr-linkedin
         
-        https://mlwhiz.com/blog/2019/11/12/dtsplits/?utm_campaign=the-simple-math-behind-3-decision-tree-splitting-criterions&utm_medium=social_link&utm_source=missinglettr-linkedin
-        
-        Machine Learning – it’s all about assumptions  https://www.kdnuggets.com/2021/02/machine-learning-assumptions.html
-        
-        GPBoost: A Library To Combine Tree-Boosting With Gaussian Process And Mixed-Effects Models https://analyticsindiamag.com/guide-to-gpboost-a-machine-learning-library-to-combine-tree-boosting/
+            Machine Learning – it’s all about assumptions  
+                https://www.kdnuggets.com/2021/02/machine-learning-assumptions.html
+
+            GPBoost: A Library To Combine Tree-Boosting With Gaussian Process And Mixed-Effects Models
+                https://analyticsindiamag.com/guide-to-gpboost-a-machine-learning-library-to-combine-tree-boosting/
    
-   B.Unsupervised learning(no label(target) data)
+   **B.Unsupervised learning(no label(target) data)**
    
-     1.Dimensionality reduction - PCA,SVD,LDA,som,tsne,plsr,pcr,autoencoders,kpca,lsa,Factor Analysis,
+     1.Dimensionality reduction - 
+        PCA,
+        SVD,
+        LDA,
+        som,
+        tsne,
+        plsr,
+        pcr,
+        autoencoders,
+        kpca,
+        lsa,
+        Factor Analysis
    
-     2.Clustering :https://scikit-learn.org/stable/modules/clustering.html  https://machinelearningmastery.com/clustering-algorithms-with-python/
+     2.Clustering :
+            https://scikit-learn.org/stable/modules/clustering.html  
+            https://machinelearningmastery.com/clustering-algorithms-with-python/
      
-     kmodes https://www.youtube.com/watch?v=8eATPLDJ0NQ
+            kmodes 
+             https://www.youtube.com/watch?v=8eATPLDJ0NQ
+             https://pub.towardsai.net/fully-explained-birch-clustering-for-outliers-with-python-2ad6243f126b     
+             https://www.kdnuggets.com/2020/12/algorithms-explained-k-means-k-medoids-clustering.html      
+             https://www.kdnuggets.com/2017/03/naive-sharding-centroid-initialization-method.html
      
-     https://pub.towardsai.net/fully-explained-birch-clustering-for-outliers-with-python-2ad6243f126b
+            K-Means 8x faster, 27x lower error than Scikit-learn in 25 lines   
+                https://www.kdnuggets.com/2021/01/k-means-faster-lower-error-scikit-learn.html#.YAHAAIpnx4A.linkedin
+            k-Means Clustering by up to 10x Over Scikit-Learn  
+                https://towardsdatascience.com/how-to-speed-up-your-k-means-clustering-by-up-to-10x-over-scikit-learn-5aec980ebb72
      
-     https://www.kdnuggets.com/2020/12/algorithms-explained-k-means-k-medoids-clustering.html 
+     3.Association Rule Learning - 
      
-     https://www.kdnuggets.com/2017/03/naive-sharding-centroid-initialization-method.html
-     
-     K-Means 8x faster, 27x lower error than Scikit-learn in 25 lines   https://www.kdnuggets.com/2021/01/k-means-faster-lower-error-scikit-learn.html#.YAHAAIpnx4A.linkedin
-   
-     k-Means Clustering by up to 10x Over Scikit-Learn  https://towardsdatascience.com/how-to-speed-up-your-k-means-clustering-by-up-to-10x-over-scikit-learn-5aec980ebb72
-     
-     3.Association Rule Learning - support,lift,confidence,aprior,elcat,Fp-growth,Fp-tree construction, association_rules
+            support,
+            lift,
+            confidence,
+            aprior,
+            elcat,
+            Fp-growth,
+            Fp-tree construction, 
+            association_rules
    
      4.Recommendation system -
      
          a.collaborative Recommendation system (model based, memory based(item based,user based))  user-item interaction matrix
-        
          b.content based Recommendation system 
          
-         similarity based(user-user similarity,item-item similarity)
+             similarity based(user-user similarity,item-item similarity)
+             matrix factorization
          
-         matrix factorization
-         
-         c.utility based Recommendation system 
-         
-         d.knowledge based Recommendation system 
-         
-         e.demographic based Recommendation system 
-         
-         f.hybrid based Recommendation system 
-         
-         g.Average Weighted Recommendation
-         
-         h.using K Nearest Neighbor
-         
-         i.cosine distance recommender system
-         
-         j.TensorFlow Recommenders https://www.tensorflow.org/recommenders
-         
-         k.suprise baseline model
-         
+         c.utility based Recommendation system     
+         d.knowledge based Recommendation system          
+         e.demographic based Recommendation system          
+         f.hybrid based Recommendation system          
+         g.Average Weighted Recommendation         
+         h.using K Nearest Neighbor         
+         i.cosine distance recommender system         
+         j.TensorFlow Recommenders https://www.tensorflow.org/recommenders         
+         k.suprise baseline model         
          l.Tf-Rec https://github.com/Praful932/Tf-Rec
          
          Restricted Boltzmann Machines 
          
          TOROS Buffalo https://github.com/kakao/buffalo
          
-         PyTorch implementations of deep reinforcement learning algorithms and environments https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
+         PyTorch implementations of deep reinforcement learning algorithms and environments 
+            https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
          
-         recmetrics library of metrics for evaluating recommender systems   https://github.com/statisticianinstilettos/recmetrics
+         recmetrics library of metrics for evaluating recommender systems  
+            https://github.com/statisticianinstilettos/recmetrics
          
-         Downsize Recommendation Models By 112 Times https://analyticsindiamag.com/explained-facebooks-novel-method-to-downsize-recommendation-models-by-112-times/
-         
-         https://analyticsindiamag.com/top-open-source-recommender-systems-in-python-for-your-ml-project/
-         
-         https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8
-         
-         https://machinelearningmastery.com/recommender-systems-resources/
+         Downsize Recommendation Models By 112 Times
+             https://analyticsindiamag.com/explained-facebooks-novel-method-to-downsize-recommendation-models-by-112-times/
+             https://analyticsindiamag.com/top-open-source-recommender-systems-in-python-for-your-ml-project/         
+             https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8         
+             https://machinelearningmastery.com/recommender-systems-resources/
    
-   C.Ensemble methods
+   **C.Ensemble methods**
    
-     1.Stacking models https://www.analyticsvidhya.com/blog/2021/03/advanced-ensemble-learning-technique-stacking-and-its-variants/?
-   
-     2.Bagging models
-   
-     3.Boosting models
+         1.Stacking models https://www.analyticsvidhya.com/blog/2021/03/advanced-ensemble-learning-technique-stacking-and-its-variants/?
+         2.Bagging models   
+         3.Boosting models     
+         4.Blending     
+         5.Voting (Hard Voting,Soft Voting)
      
-     4.Blending
+        https://analyticsindiamag.com/do-ensemble-methods-always-work/
      
-     5.Voting (Hard Voting,Soft Voting)
-     
-     https://analyticsindiamag.com/do-ensemble-methods-always-work/
-     
-     Shapley value of players (models) in weighted voting games  https://github.com/benedekrozemberczki/shapley
+        Shapley value of players (models) in weighted voting games  
+        https://github.com/benedekrozemberczki/shapley
    
-   D.Reinforcement learning
+   **D.Reinforcement learning**
    
-      2 types a)model free   b)model based
+      2 types 
+            a)model free   
+            b)model based
    
-      agent,environment,policy(On-Policy vs Off-Policy),reward function,value function,state,action,episode,actor-critic
+      agent
+      environment
+      policy(On-Policy vs Off-Policy)
+      reward function
+      value function
+      state
+      action
+      episode
+      actor-critic
    
       agent apply action to environment get corresponding reward so that it learn environment
       
-      1.Q-Learning
-      
-      2.Deep Q-Learning
-      
-      3.Deep Convolutional Q-Learning
-      
-      Deep Deterministic Policy Gradient
-      
-      4.Twin Delayed DDPG,DQN
-      
-      5.A3C  (Actor Critic)
-      
-      6.Advantage weighted actor critic (AWAC). 
-      
-      7.XCS
-      
+      1.Q-Learning     
+      2.Deep Q-Learning      
+      3.Deep Convolutional Q-Learning      
+            Deep Deterministic Policy Gradient     
+      4.Twin Delayed DDPG,DQN     
+      5.A3C  (Actor Critic)     
+      6.Advantage weighted actor critic (AWAC).       
+      7.XCS      
       8.genetic algorithm,sarsa
       
       https://simoninithomas.github.io/deep-rl-course/
       
        Environments-OpenAI Gym, DeepMind Lab, Unity ML-Agents
        
-       https://data-flair.training/news/python-libraries-for-reinforcement-learning/
-       
-       https://analyticsindiamag.com/8-best-free-resources-to-learn-deep-reinforcement-learning-using-tensorflow/   
-       
-       https://analyticsindiamag.com/top-8-autonomous-driving-open-source-projects-one-must-try-hands-on/
-       
-       https://analyticsindiamag.com/8-toolkits-for-reinforcement-learning-models-that-make-reasoning-explainability-core-to-ai/
-       
-       https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
-       
-       https://towardsdatascience.com/value-based-methods-in-deep-reinforcement-learning-d40ca1086e1
-       
+       https://data-flair.training/news/python-libraries-for-reinforcement-learning/    
+       https://analyticsindiamag.com/8-best-free-resources-to-learn-deep-reinforcement-learning-using-tensorflow/          
+       https://analyticsindiamag.com/top-8-autonomous-driving-open-source-projects-one-must-try-hands-on/       
+       https://analyticsindiamag.com/8-toolkits-for-reinforcement-learning-models-that-make-reasoning-explainability-core-to-ai/       
+       https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses       
+       https://towardsdatascience.com/value-based-methods-in-deep-reinforcement-learning-d40ca1086e1       
        https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-reinforcement-learning-tutorials-examples-projects-and-courses
        
-       TensorForce: A TensorFlow-based Reinforcement Learning Framework https://analyticsindiamag.com/guide-to-tensorforce-a-tensorflow-based-reinforcement-learning-framework/
+       TensorForce: A TensorFlow-based Reinforcement Learning Framework 
+            https://analyticsindiamag.com/guide-to-tensorforce-a-tensorflow-based-reinforcement-learning-framework/
        
-       Open AI Gym - https://gym.openai.com/
+       Open AI Gym - 
+            https://gym.openai.com/
        
-       DeepMind’s MuZero  https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?utm_campaign=Learning%20Posts&utm_content=150411901&utm_medium=social&utm_source=twitter&hss_channel=tw-3018841323
+       DeepMind’s MuZero  
+            https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?utm_campaign=Learning%20Posts&utm_content=150411901&utm_medium=social&utm_source=twitter&hss_channel=tw-3018841323
        
-       KerasRL https://github.com/keras-rl/keras-rl
+       KerasRL 
+            https://github.com/keras-rl/keras-rl
        
-       pyqlearning
-       
-       tensorforce https://tensorforce.readthedocs.io/en/latest/index.html  
-       
-       Practical_RL https://github.com/yandexdataschool/Practical_RL
-       
-       rl_coach https://github.com/IntelLabs/coach#installation        MushroomRL https://mushroomrl.readthedocs.io/en/latest/
-       
-       TFAgents  https://github.com/tensorflow/agents (https://www.tensorflow.org/agents)   https://deepmind.com/blog/article/trfl    
-       
-       Automate The Stock Market Using FinRL (Deep Reinforcement Learning Library)  https://analyticsindiamag.com/stock-market-prediction-using-finrl/
-       
-       Stable Baselines  https://github.com/openai/baselines
-       
-       https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
-       
+       pyqlearning       
+       tensorforce https://tensorforce.readthedocs.io/en/latest/index.html       
+       Practical_RL https://github.com/yandexdataschool/Practical_RL       
+       rl_coach https://github.com/IntelLabs/coach#installation        MushroomRL https://mushroomrl.readthedocs.io/en/latest/       
+       TFAgents  https://github.com/tensorflow/agents (https://www.tensorflow.org/agents)   https://deepmind.com/blog/article/trfl           
+       Automate The Stock Market Using FinRL (Deep Reinforcement Learning Library)  https://analyticsindiamag.com/stock-market-prediction-using-finrl/       
+       Stable Baselines  https://github.com/openai/baselines       
+       https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc       
        https://neptune.ai/blog/the-best-tools-for-reinforcement-learning-in-python?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-the-best-tools-for-reinforcement-learning-in-python
    
    Semi-Supervised Learning-small amount of labeled data with a large amount of unlabeled data during training
    
    
-   E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
+   **E.Deep-learning**  (use when have huge data and data is highly complex and state of art for unstructured data)
    
-   Model Zoo Discover open source deep learning code and pretrained models https://modelzoo.co/
-   
-   Sharing the best resources on various machine learning topics https://www.backprop.org/
-   
-   Frameworks:Pytorch,Tensorflow,Keras,caffe,theano,MXNet,Matlab,Microsoft Cognitive Toolkit,opacus(Train PyTorch models with Differential Privacy)
-   
-   https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464  https://docs.deepstack.cc/getting-started/index.html
+       Model Zoo Discover open source deep learning code and pretrained models https://modelzoo.co/
+       Sharing the best resources on various machine learning topics https://www.backprop.org/
+       Frameworks:Pytorch,Tensorflow,Keras,caffe,theano,MXNet,Matlab,Microsoft Cognitive Toolkit,opacus(Train PyTorch models with Differential Privacy)
+
+       https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464  https://docs.deepstack.cc/getting-started/index.html
    
    1.Multilayer perceptron(MLP)
    
      1.Regression task
-   
      2.Classification task
    
    2.Convolutional neural network ( use for image data)
@@ -1107,178 +1102,266 @@ anderson teset  use for check any  distribution
    
      1.Classification of image
      
-       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,,Efficient,EfficientNetV2,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels
+           create own model, 
+           Lenet,
+           Alexnet,
+           DenseNet,
+           MobileNet,
+           ShuffleNet,
+           SqueezeNet,
+           Resenet,
+           GoogleNet,
+           Inception,
+           Vgg16,
+           vgg19,
+           Efficient,
+           EfficientNetV2,
+           Nasnet,
+           STN,
+           nasneta,
+           senet,
+           amoebanetc,
+           DeiT (tiny,small,base),
+           Meta Pseudo Labels
        
-       https://theaisummer.com/cnn-architectures/  https://paperswithcode.com/sota/image-classification-on-imagenet 
+       https://theaisummer.com/cnn-architectures/  
+       https://paperswithcode.com/sota/image-classification-on-imagenet 
      
      2.Localization of object in image
-     
      3.Object detection and object segmentation 
      
-       rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,scaled yolov4,YoloV5,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
-       
-       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets,v-net,TransUNet,EfficientDet,Vision Transformer,deit
-       
-       GSDT https://analyticsindiamag.com/gsdt-gnns-for-simultaneous-detection-and-tracking/
-       
-       3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
-       
-       https://analyticsindiamag.com/guide-to-panoptic-segmentation-a-semantic-instance-segmentation-approach/  https://analyticsindiamag.com/semantic-vs-instance-vs-panoptic-which-image-segmentation-technique-to-choose/
-       
-       ResNeSt: A Better ResNet with the Same Costs https://analyticsindiamag.com/guide-to-resnest-a-better-resnet-with-the-same-costs/
-       
-       PyTorch based low code object detection-https://github.com/alankbi/detecto  
-       
-       https://www.kdnuggets.com/2021/03/extraction-objects-images-videos-5-lines-code.html    
-       
-       autogluon 
-       
-       GluonCV  https://medium.com/apache-mxnet/start-fitting-cv-models-like-scikit-learn-with-gluoncv-0-10-931ff910a38 
-       
-       https://awesomeopensource.com/project/hoya012/deep_learning_object_detection
+           rcnn,
+           fastrcnn
+           fastercnn
+           TensorFlow Object Detection
+           yolo v1
+           yolo v2
+           yolo v3
+           yolo v4
+           scaled yolov4
+           YoloV5
+           efficinetdet
+           fast yolo
+           yolo tiny
+           yolo lite
+           yolo tiny++
+           yolo act++
+
+           maskrcnn
+           DeepLab-v3-plus
+           ssd
+           detectron
+           detectron2
+           D2Go
+           mobilenet
+           retinanet
+           R-fcn
+           detr facebook
+           pspnet
+           segnet
+           U-net
+           UNet++
+           Efficient U-Nets
+           v-net
+           TransUNet
+           EfficientDet
+           Vision Transformer
+           deit
+
+           GSDT https://analyticsindiamag.com/gsdt-gnns-for-simultaneous-detection-and-tracking/
+
+           3 kind of object segmentation are available 
+           
+                semantic segmentation,
+                instance segmentation,
+                panoptic segmentation
+
+           https://analyticsindiamag.com/guide-to-panoptic-segmentation-a-semantic-instance-segmentation-approach/  https://analyticsindiamag.com/semantic-vs-instance-vs-panoptic-which-image-segmentation-technique-to-choose/
+
+           ResNeSt: A Better ResNet with the Same Costs 
+           https://analyticsindiamag.com/guide-to-resnest-a-better-resnet-with-the-same-costs/
+
+           PyTorch based low code object detection-
+           https://github.com/alankbi/detecto  
+           https://www.kdnuggets.com/2021/03/extraction-objects-images-videos-5-lines-code.html    
+
+           autogluon 
+           GluonCV  
+            https://medium.com/apache-mxnet/start-fitting-cv-models-like-scikit-learn-with-gluoncv-0-10-931ff910a38 
+            https://awesomeopensource.com/project/hoya012/deep_learning_object_detection
      
      4.objecttracking  (mean shit and optical flow and kalman filter)
      
-       Tracktor++,Trackrcnn,Jde,DeepSORT,FairMOT
-       
-       mmtracking https://github.com/open-mmlab/mmtracking
+           Tracktor++,Trackrcnn,Jde,DeepSORT,FairMOT
+           mmtracking https://github.com/open-mmlab/mmtracking
      
      5.Deepdream,Neural style transfer, Pose estimation 
 
-     Pose estimation by mediapipe library  https://google.github.io/mediapipe/  https://www.youtube.com/watch?v=brwgBf6VB0I
+         Pose estimation by mediapipe library  https://google.github.io/mediapipe/  https://www.youtube.com/watch?v=brwgBf6VB0I
+         posemodule https://www.youtube.com/watch?v=5kaX3ta398w
      
-     posemodule https://www.youtube.com/watch?v=5kaX3ta398w
-     
-     6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,MultiPoseNet,AlphaPose,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet
+     6.DEEP LEARNING METHODS FOR 2D :
+                OpenPose,
+                DeepPose,
+                MultiPoseNet,
+                AlphaPose,
+                VIBE,
+                DeeperCut,
+                Mask RCNN,
+                DeepCut,
+                Convolutional Pose Machines,
+                PoseNet
      
      openpose wrnchai  densepose
      
      3D POSE ESTIMATION
-     
      3D Image Classification https://keras.io/examples/vision/3D_image_classification/
      
-     TensorFlow 2 Object Detection API tutorial https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/
+     TensorFlow 2 Object Detection API tutorial 
+         https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/ 
+         https://blog.paperspace.com/how-to-train-scaled-yolov4-object-detection/
      
-     https://blog.paperspace.com/how-to-train-scaled-yolov4-object-detection/
+     albumentations 
+        https://github.com/albumentations-team/albumentations
      
-     albumentations https://github.com/albumentations-team/albumentations
+     HiSD: Image-to-Image translation via Hierarchical Style Disentanglement 
+        https://analyticsindiamag.com/hisd-python-implementation-of-image-to-image-translation/
      
-     HiSD: Image-to-Image translation via Hierarchical Style Disentanglement https://analyticsindiamag.com/hisd-python-implementation-of-image-to-image-translation/
+     Image Augmentation Pipelines with Tensorflow  
+        https://towardsai.net/p/machine-learning/building-complex-image-augmentation-pipelines-with-tensorflow-bed1914278d2
      
-     Image Augmentation Pipelines with Tensorflow  https://towardsai.net/p/machine-learning/building-complex-image-augmentation-pipelines-with-tensorflow-bed1914278d2
+     TensorFlow2.0-Examples 
+        https://github.com/YunYang1994/TensorFlow2.0-Examples
      
-     TensorFlow2.0-Examples  https://github.com/YunYang1994/TensorFlow2.0-Examples
-     
-     unadversarial  https://github.com/microsoft/unadversarial/ https://analyticsindiamag.com/microsoft-research-unadversarial/
+     unadversarial  
+        https://github.com/microsoft/unadversarial/ 
+        https://analyticsindiamag.com/microsoft-research-unadversarial/
      
      CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas,Blur Integrated Gradients,concept whitening,Integrated Gradients,SmoothGrad
      
-     Tools to Design or Visualize Architecture of Neural Network https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
+     Tools to Design or Visualize Architecture of Neural Network 
+         https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
+         https://jair-neto.medium.com/a-powerful-method-for-explainability-of-object-detection-algorithms-ace0fe4623e7 
+         https://github.com/utkuozbulak/pytorch-cnn-visualizations  
+         https://microscope.openai.com/models  
+         https://github.com/balavenkatesh3322/CV-pretrained-model
      
-     https://jair-neto.medium.com/a-powerful-method-for-explainability-of-object-detection-algorithms-ace0fe4623e7
-     
-     https://github.com/utkuozbulak/pytorch-cnn-visualizations  https://microscope.openai.com/models  https://github.com/balavenkatesh3322/CV-pretrained-model
-     
-     Mediapipe for Python https://google.github.io/mediapipe/
+     Mediapipe for Python 
+         https://google.github.io/mediapipe/
      
      imageai.Detection for Object detection
+     cnn-raccoon  interactive dashboards for your Convolutional Neural Networks with a single line of code 
+         https://github.com/lucko515/cnn-raccoon
      
-     cnn-raccoon  interactive dashboards for your Convolutional Neural Networks with a single line of code https://github.com/lucko515/cnn-raccoon
-     
-     deit https://github.com/facebookresearch/deit   https://wandb.ai/thibault-neveu/detr-tensorflow-log/reports/Finetuning-DETR-Object-Detection-with-Transformers-on-Tensorflow-A-step-by-step-tutorial--VmlldzozOTYyNzQ  https://github.com/Visual-Behavior/detr-tensorflow
+     deit 
+        https://github.com/facebookresearch/deit   
+        https://wandb.ai/thibault-neveu/detr-tensorflow-log/reports/Finetuning-DETR-Object-Detection-with-Transformers-on-Tensorflow-A-step-by-step-tutorial--VmlldzozOTYyNzQ  https://github.com/Visual-Behavior/detr-tensorflow
        
-     awesome-computer-vision-models https://github.com/nerox8664/awesome-computer-vision-models
+     awesome-computer-vision-models 
+        https://github.com/nerox8664/awesome-computer-vision-models
      
-     EfficientDet https://github.com/ravi02512/efficientdet-keras
+     EfficientDet 
+        https://github.com/ravi02512/efficientdet-keras
      
-     Vision Transformer - Pytorch  https://github.com/lucidrains/vit-pytorch   https://github.com/alohays/awesome-visual-representation-learning-with-transformers 
+     Vision Transformer - Pytorch  
+        https://github.com/lucidrains/vit-pytorch   
+        https://github.com/alohays/awesome-visual-representation-learning-with-transformers 
      
-     T2T-ViT https://analyticsindiamag.com/complete-guide-to-t2t-vit-training-vision-transformers-efficiently-with-minimal-data/ https://github.com/yitu-opensource/T2T-ViT
+     T2T-ViT 
+        https://analyticsindiamag.com/complete-guide-to-t2t-vit-training-vision-transformers-efficiently-with-minimal-data/ https://github.com/yitu-opensource/T2T-ViT
      
-     Explainability for Vision Transformers https://github.com/jacobgil/vit-explain
+     Explainability for Vision Transformers 
+        https://github.com/jacobgil/vit-explain
+        https://keras.io/examples/vision/image_classification_with_vision_transformer/
+        https://github.com/ashishpatel26/Vision-Transformer-Keras-Tensorflow-Pytorch-Examples https://github.com/google-research/vision_transformer 
      
-     https://keras.io/examples/vision/image_classification_with_vision_transformer/
+     DeepLab-v3-plus Semantic Segmentation in TensorFlow 
+        https://github.com/rishizek/tensorflow-deeplab-v3-plus
      
-     https://github.com/ashishpatel26/Vision-Transformer-Keras-Tensorflow-Pytorch-Examples https://github.com/google-research/vision_transformer 
+         DEEP LEARNING METHODS FOR 3D:
+            3D human pose estimation= 2D pose estimation + matching,
+            Integral Human Pose Regression,
+            Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human Pose Estimation,
+            Data Augmentation apply to increase size of dataset and performance of model
      
-     DeepLab-v3-plus Semantic Segmentation in TensorFlow https://github.com/rishizek/tensorflow-deeplab-v3-plus
+     low code object detection -  detecto  
+        https://github.com/alankbi/detecto 
      
-     DEEP LEARNING METHODS FOR 3D:3D human pose estimation= 2D pose estimation + matching,Integral Human Pose Regression,Towards 3D Human Pose Estimation in the
-Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human Pose Estimation,
+     AutoML  
+        https://github.com/dataloop-ai/AutoML
      
-     Data Augmentation apply to increase size of dataset and performance of model
+     Object Detection with 10 lines of code-
+        https://www.datasciencecentral.com/profiles/blogs/object-detection-with-10-lines-of-code
      
-     low code object detection -  detecto  https://github.com/alankbi/detecto 
+     OneNet-
+        https://analyticsindiamag.com/onenet/
      
-     AutoML  https://github.com/dataloop-ai/AutoML
+     Norfair 
+        https://github.com/tryolabs/norfair
      
-     Object Detection with 10 lines of code-https://www.datasciencecentral.com/profiles/blogs/object-detection-with-10-lines-of-code
+     Remo Improves Image Management  
+        https://www.freecodecamp.org/news/manage-computer-vision-datasets-in-python-with-remo/
      
-     OneNet-https://analyticsindiamag.com/onenet/
+     yolo 
+        https://github.com/zzh8829/yolov3-tf2 https://github.com/ultralytics/yolov5 https://github.com/ashishpatel26/Yolov5-King-of-object-Detection  https://github.com/sicara/tf2-yolov4
      
-     Norfair https://github.com/tryolabs/norfair
-     
-     Remo Improves Image Management  https://www.freecodecamp.org/news/manage-computer-vision-datasets-in-python-with-remo/
-     
-     yolo https://github.com/zzh8829/yolov3-tf2 https://github.com/ultralytics/yolov5 https://github.com/ashishpatel26/Yolov5-King-of-object-Detection  https://github.com/sicara/tf2-yolov4
-     
-     clip https://github.com/openai/CLIP
+     clip 
+        https://github.com/openai/CLIP
+   
    
    3.Recurrent neural network (use when series of data)
    
-     1.RNN
+         1.RNN  
+         2.GRU    
+         3.LSTM (have memory cell,forget gate  etc..)
      
-     2.GRU
-     
-     3.LSTM (have memory cell,forget gate  etc..)
-     
-     all above 3 models have bidirectional also based on problem statement use bidirectional models
-     
-     Quasi-Recurrent Neural Network  https://github.com/salesforce/pytorch-qrnn
+         all above 3 models have bidirectional also based on problem statement use bidirectional models
+
+         Quasi-Recurrent Neural Network  https://github.com/salesforce/pytorch-qrnn
   
-   4.Generative adversarial network   https://poloclub.github.io/ganlab/         https://developers.google.com/machine-learning/gan/training
+  
+   4.Generative adversarial network   
+   
+        https://poloclub.github.io/ganlab/         
+        https://developers.google.com/machine-learning/gan/training
+        https://neptune.ai/blog/generative-adversarial-networks-gan-applications?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-generative-adversarial-networks-gan-applications
 
-     https://neptune.ai/blog/generative-adversarial-networks-gan-applications?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-generative-adversarial-networks-gan-applications
-
-     generative adversarial transformers https://github.com/dorarad/gansformer
-     
-     LipGAN https://github.com/Rudrabha/LipGAN  Wav2Lip https://github.com/Rudrabha/Wav2Lip
-     
-     BigGAN https://analyticsindiamag.com/hands-on-guide-to-biggan-with-python-code/
+         generative adversarial transformers https://github.com/dorarad/gansformer   
+         LipGAN https://github.com/Rudrabha/LipGAN  Wav2Lip https://github.com/Rudrabha/Wav2Lip     
+         BigGAN https://analyticsindiamag.com/hands-on-guide-to-biggan-with-python-code/
    
      Cycle gan,Dcgan,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution
      
      5 Alternatives To Deep Nostalgia https://analyticsindiamag.com/top-5-alternatives-to-deep-nostalgia/
      
-     MixNMatch https://github.com/Yuheng-Li/MixNMatch
+        MixNMatch 
+             https://github.com/Yuheng-Li/MixNMatch
      
-     Quantum GAN  https://analyticsindiamag.com/now-gans-are-being-used-for-drug-discovery-complete-guide-to-quantum-gan-with-python-code/
+        Quantum GAN  
+             https://analyticsindiamag.com/now-gans-are-being-used-for-drug-discovery-complete-guide-to-quantum-gan-with-python-code/
+             https://analyticsindiamag.com/guide-to-differentiable-augmentation-for-data-efficient-gan-training/  
+             https://analyticsindiamag.com/hands-on-python-guide-to-style-based-age-manipulation-sam-technique/
      
-     https://analyticsindiamag.com/guide-to-differentiable-augmentation-for-data-efficient-gan-training/  https://analyticsindiamag.com/hands-on-python-guide-to-style-based-age-manipulation-sam-technique/
+     Imaginaire 
+             https://analyticsindiamag.com/guide-to-nvidia-imaginaire-gan-library-in-python/
      
-     Imaginaire https://analyticsindiamag.com/guide-to-nvidia-imaginaire-gan-library-in-python/
+     Disentanglement 
+             https://analyticsindiamag.com/what-is-face-identity-disentanglement-and-how-it-outperformed-gans/
      
-     Disentanglement https://analyticsindiamag.com/what-is-face-identity-disentanglement-and-how-it-outperformed-gans/
-     
-     StyleFlow https://github.com/RameenAbdal/StyleFlow 
-     
-     https://github.com/hindupuravinash/the-gan-zoo  https://analyticsindiamag.com/top-10-tools-for-generative-adversarial-networks/
+     StyleFlow 
+            https://github.com/RameenAbdal/StyleFlow 
+            https://github.com/hindupuravinash/the-gan-zoo 
+            https://analyticsindiamag.com/top-10-tools-for-generative-adversarial-networks/
    
    5.Autoencoder
    
       1.sparse Autoencoder
-      
-      2.denoising Autoencoder
-      
-      3.Contractive Autoencoder
-      
-      4.stacked Autoencoder
-      
-      5.deep Autoencoder
-      
-      6.variational autoencoder
-     
-      7.convolutional   autoencoder
+      2.denoising Autoencoder      
+      3.Contractive Autoencoder      
+      4.stacked Autoencoder      
+      5.deep Autoencoder      
+      6.variational autoencoder    
+      7.convolutional autoencoder
       
       https://github.com/zc8340311/RobustAutoencoder
    
@@ -1292,9 +1375,11 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Nltk,spacy,genism,textblob,inltk,Pattern,stanza,OpenNLP,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero,Flair,textacy,finetune,gluon-nlp,VnCoreNLP,fasttext,Langid,PyCLD3,Guesslang  libraries
      
-     clean-text  https://github.com/jfilter/clean-text https://www.youtube.com/watch?v=i2TjAgga1YU
+     clean-text  
+            https://github.com/jfilter/clean-text https://www.youtube.com/watch?v=i2TjAgga1YU
      
-     indicnlp https://indicnlp.ai4bharat.org/samanantar/
+     indicnlp 
+            https://indicnlp.ai4bharat.org/samanantar/
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
       
@@ -1489,27 +1574,20 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       generally used  to impute data in Time Series
       
-      1.ffill
-      
-      2.bfill
-      
-      3.do mean of previous or future x samples and impute
-      
-      4.take previous season value and impute (data with trend)
-      
-      5.mean,mode,median,random sample imputation (data without trend and without seasonality)
-      
-      6.linear interpolation(data with trend and without seasonality)
-      
-      7.seasonal +interpolation(data with trend and with seasonality)
-      
+      1.ffill  
+      2.bfill    
+      3.do mean of previous or future x samples and impute      
+      4.take previous season value and impute (data with trend)     
+      5.mean,mode,median,random sample imputation (data without trend and without seasonality)      
+      6.linear interpolation(data with trend and without seasonality)      
+      7.seasonal +interpolation(data with trend and with seasonality)     
       here model selection deponds on different property of data like stationary,trend,seasonality,cyclic 
       
       Anomaly Detection using Isolation Forest,AutoEncoders
       
       Granger Causality Statistical Test use for variable usable for forecast 
-      
-      adfuller test  for  Stationarity        Non Stationary Statistical Test - KPSS and ADF
+      adfuller test  for  Stationarity        
+      Non Stationary Statistical Test - KPSS and ADF
       
       Handling Data with Regular Gaps using Facebook Prophet
       
@@ -1677,6 +1755,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
   DropBlock-Keras-Implementation https://github.com/iantimmis/DropBlock-Keras-Implementation   https://github.com/miguelvr/dropblock https://github.com/DHZS/tf-dropblock
   
+  
 ***Hyperparameter tuning***
 
     https://analyticsindiamag.com/top-8-approaches-for-tuning-hyperparameters-of-machine-learning-models/  https://analyticsindiamag.com/top-10-open-source-hyperparameter-optimisation-libraries-for-ml-models/
@@ -1743,23 +1822,19 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
     
-     1.Loocv
-     
-     2.Kfoldcv
-     
-     3.Stratfied cross validation
-     
-     4.Time Series cross-validation
-     
-     5.Holdout cross-validation
-     
+     1.Loocv  
+     2.Kfoldcv     
+     3.Stratfied cross validation     
+     4.Time Series cross-validation     
+     5.Holdout cross-validation     
      6.Repeated cross-validation
   
 Tensorboard,Neptune to visualization of model performance
 
 Distributed Training with TensorFlow 
 
-***6.Testing model***
+
+## 6.Testing model
 
 Text Robustness Evaluation Platform  https://github.com/textflint/textflint
 
